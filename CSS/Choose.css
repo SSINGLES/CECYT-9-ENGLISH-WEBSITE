@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
+
+*{
+  font-family: 'Poppins', sans-serif;
+  margin:0; padding:0; 
+  box-sizing: border-box;
+  text-transform: capitalize;
+  outline: none; border:none;
+  text-decoration: none;
+}
+
+.container{
+  background: linear-gradient(#ddd 50%, #3848d8 50.1%);
+  min-height: 100vh;
+  text-align: center;
+}
+
+.container .box-container{
+  max-width: 1200px;
+  margin:0 auto;
+  padding:20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap:20px;
+}
+
+.container .box-container .box{
+  background: #fff;
+  box-shadow: 0 10px 15px rgba(0,0,0,.3);
+}
+
+
+
+.container .box-container .box:nth-child(2) .btn{
+  background: #626fdc; /*Color estándar del segundo*/
+}
+
+.container .box-container .box:nth-child(2) .btn:hover{
+  background: #e35959; /*El segundo, al presionar cambia*/
+}
+
+.container .box-container .box h3{
+  font-size: 25px;
+  padding:17px 0;
+  color:#444;
+}
+
+.container .box-container .box .Activity{
+  color:rgb(0, 0, 0);
+  background: #fff;
+  font-weight: bolder;
+  font-size: 50px;
+}
+
+.container .box-container .box .Activity.year{
+  display: none;
+}
+
+.container .box-container .box .illu{
+  margin:20px 0;
+}
+
+#imgT{
+  height: 300px;
+  width: 350px;
+}
+
+#imgSK{
+  height: 300px;
+  width: 350px;
+}
+
+.container .box-container .box .illu p{
+  padding:15px 0;
+  font-size: 17px;
+  color:#666;
+}
+
+.container .box-container .box .illu p i{
+  padding-right: 5px;
+  color:crimson;
+}
+
+.container .box-container .box .btn{
+  margin:20px;
+  display: block;
+  font-size: 17px;
+  background: #626fdc; /*Color estándar del primero*/
+  color:#fff;
+  padding:10px;
+}
+
+.container .box-container .box .btn:hover{
+  background: #e35959; /*El primero, al presionar cambia*/
+}
+
+
+@media (max-width:450px){
+  .container .box-container{
+    grid-template-columns: 1fr;
+  }
+}

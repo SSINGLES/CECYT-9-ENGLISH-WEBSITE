@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image: url("../IMAGENES/FONDO 3.jpg");
+}
+
+.position{
+	margin-top: 25px;
+	margin-left: 25px;
+}
+
+.pos-f-t {
+	position: fixed;
+} 
+
+.element.style {
+    position: fixed;
+}
+.top_bar {
+    text-align: left;
+    z-index: 8000;
+    width: 100%;
+}
+
+h1{
+	font-size: 50px;
+	color: #0000ff;
+	text-shadow: 1px  0px 0px white,
+               0px  1px 0px white,
+              -1px  0px 0px white,
+               0px -1px 0px white;
+}
+
+.box {
+	width: 400px;
+	background-size: 100%;
+	padding: 30px;
+	margin: auto;
+	margin-top: 70px;
+	border-radius: 4px;
+	font-family: 'Arial';
+	color: black;
+	box-shadow: 7px 13px 37px black;
+	
+}
+
+.botons {
+    text-decoration: none;
+	font-weight: 300;
+    font-size: 13px;
+	width: 100%;
+	background: #40AAF7;
+	border-radius: 6px;
+    font-family:Arial;
+	padding: 12px;
+	color: white;
+	font-weight:bold;
+	margin: 16px 0;
+	font-size: 16px;
+	
+}
+
+
+.botons:hover{
+	color: white;
+    background-color: #4040ff;
+  }
+
+.box_regresar{
+	width: 300px;
+	background-size: 100%;
+	margin-top: 20px;
+	border-radius: 4px;
+	font-family: 'Arial';
+	color: black;
+}
+
+.txt{
+	text-decoration: none;
+	color: white;
+}

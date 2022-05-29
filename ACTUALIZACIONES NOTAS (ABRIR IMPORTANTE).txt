@@ -1,0 +1,68 @@
+V1.0:
+-Se agregó la carpeta BOOTSTRAP 5.1.3
+-Se agregó la carpeta CSS
+-Se agregó la carpeta IMAGENES
+-Se agregó la sección index.html
+-Se agregó la sección pagina_ejercicios.html
+-Se agregó la sección pagina_ejercicios_1er_semestre.html
+-Se agregó la sección pagina_semestres.html
+
+
+V1.1:
+-Se agregó la carpeta PORTAL DE SECCIONES
+-Se agregó la carpeta CSS en PORTAL DE SECCIONES
+-Se agregó la carpeta IMG en PORTAL DE SECCIONES
+-Se agregó la sección árbol.html en PORTAL DE SECCIONES
+
+
+V1.2:
+-Se agregó la carpeta .vscode
+-Se agregó settings.json en .vscode
+-Se eliminó la carpeta PORTAL DE SECCIONES
+-Se agregaron las secciones arbol.html de la 1 a la 6
+-Se agregaron las secciones Choose.html de la 1 a la 6
+-Primera versión subida a GitHub
+-Publicada (LINK: https://ssingles.github.io/CECYT-9-ENGLISH-WEBSITE/)
+
+V1.2.5:
+-Segunda versión subida a GitHub
+-CSS de la sección Chose arreglado
+-Se eliminó settings.json en .vscode
+-Se eliminó la carpeta .vscode
+-Se eliminó la carpeta BOOTSTRAP 5.1.3
+-Se agrego la carpeta JS
+-Publicada (LINK: https://ssingles.github.io/CECYT-9-ENGLISH-WEBSITE/)
+
+V1.3:
+- Se corrigió la barra de navegación en WEB Mobile
+- Se agregó la pestaña Interpolitecnico a Index.html
+- Se agregó el Fondo inter.jpg
+- Se agregó la sección Interpolitecnico.html
+- Se agregó el primer cuestionario a Interpolitecnico.html
+- Se agregó la referencia al Twitter del Cecyt a la pestaña Noticias
+- Se finalizó la pestaña Interpolitecnico.html
+-Publicada (LINK: https://ssingles.github.io/CECYT-9-ENGLISH-WEBSITE/)
+
+V1.4
+- Se crearon las secciones pagina_ejercicios de la 2 a la 6
+- Se creó la carpeta "EDITABLES"
+- Se creó la carpeta "PÁGINAS"
+- Se creó la caprpeta "ARBOLES" dentro de "PÁGINAS"
+- Se movieron las secciones arbol.html de la 1 a la 6 a la carpeta "ARBOLES"
+- Se creó la caprpeta "CHOOSE" dentro de "PÁGINAS"
+- Se movieron las secciones Choose.html de la 1 a la 6 a la carpeta "CHOOSE"
+- Se creó la caprpeta "EJERCICIOS" dentro de "PÁGINAS"
+- Se movieron las secciones pagina_semestres y páginas_semestre_1 a la carpeta "EJERCICIOS"
+- Se creó la caprpeta "INTERPOLITECNICOS" dentro de "PÁGINAS"
+- Se movió la sección Interpolitecnico.html a la carpeta "INTERPOLITECNICOS"
+- Se creó la caprpeta "SEMESTRES" dentro de "PÁGINAS"
+- Se movió la sección pagina_semestres.html a la carpeta "INTERPOLITECNICOS"
+- Se agrego el canal de Youtube del Cecyt (https://www.youtube.com/channel/UCuEpQmAhdHg_cL5yqty5rUQ)
+a al carrusel en la pestana "siguenos en nuestras redes sociales"
+- Se agregaron las horas autonomas a pagina_ejercicios_6to_semestre
+- Se borro la pestaña ETS
+- Se borro la carpeta "EDITABLES"
+
+
+
+

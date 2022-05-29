@@ -1,0 +1,148 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image: url("../IMAGENES/Fondo Inter.jpg");
+	background-size: 100%;
+
+}
+
+.pos-f-t {
+	position: fixed;
+	background: #2196f3;
+} 
+
+.element.style {
+    position: fixed;
+}
+.top_bar {
+    text-align: left;
+    z-index: 8000;
+    width: 100%;
+}
+.Links1{
+	color: aqua;
+	font-size: 20px;
+}
+
+.box{
+	box-shadow: 10px 10px 30px black;
+	border: 5px solid rgb(211, 211, 211);
+}
+
+h1 {
+	font-size: 35px;
+	color: black;
+	text-shadow: 1px  0px 0px white,
+               0px  1px 0px white,
+              -1px  0px 0px white,
+               0px -1px 0px white;
+}
+
+h2 {
+	font-size: 30px;
+	color: black;
+	text-shadow: 1px  0px 0px white,
+               0px  1px 0px white,
+              -1px  0px 0px white,
+               0px -1px 0px white;
+}
+
+h5 {
+	font-size: 50px;
+	color: white;
+}
+
+p1{
+	font-size: 35px;
+	color: black;
+	text-shadow: 1px  0px 0px white,
+               0px  1px 0px white,
+              -1px  0px 0px white,
+               0px -1px 0px white;
+}
+
+p3{
+	font-size: 30px;
+	color: black;
+}
+
+p4{
+	font-size: 20px;
+	color: white;
+}
+
+a{
+	font-size: 30px;
+	color: white;
+}
+
+a:hover{
+	font-size: 30px;
+	color: black;
+}
+
+.margen {
+	margin-top: 2.5%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.position{
+	margin-top: 25px;
+	margin-left: 25px;
+}
+
+.pos-f-t {
+	position: fixed;
+} 
+
+.element.style {
+    position: fixed;
+}
+.top_bar {
+    text-align: left;
+    z-index: 8000;
+    width: 100%;
+}
+
+.box {
+	width: 400px;
+	background-size: 100%;
+	padding: 30px;
+	margin: auto;
+	margin-top: 70px;
+	border-radius: 4px;
+	font-family: 'Arial';
+	color: black;
+	
+}
+
+.botons {
+	font-weight: 300;
+    font-size: 13px;
+	width: 100%;
+	background: #40AAF7;
+	border-radius: 6px;
+    font-family:Arial;
+	padding: 12px;
+	color: white;
+	font-weight:bold;
+	margin: 16px 0;
+	font-size: 16px;
+	
+}
+
+
+.botons:hover{
+	color: white;
+    background-color: #4040ff;
+  }
+
+.box_regresar{
+	width: 300px;
+	margin-top: 20px;
+	border-radius: 4px;
+	font-family: 'Arial';
+	color: black;
+}

@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #626fdc;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+}
+
+/*#flag{
+    
+    height: 100px;
+    width: 100px;
+}*/
+
+.f1{
+    position: fixed;
+    top: -5%;
+    left: -3%;
+
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.flex-container div{
+    width: 100px;
+    margin: 10px;
+    font-family: 'Lato';
+    font-size: 30px;
+    text-align: center;
+    width: 250px;
+    border-radius: 18px;
+}
+
+.icons{
+    width: 100px;
+    height: 100px;
+    /*alignment-baseline: middle;*/
+}
+
+#tk{
+    position: relative;
+    top: 18%;
+    right: 35%;
+    font-size:larger;
+    color: #e4d936;
+}
+
+.flex-new{
+    position: relative;
+    top: 150px;
+    left: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    height: 450px;
+    width: 700px;
+    align-content: space-around;
+    background-color: transparent;
+    padding: 20px;
+    border: 2px transparent;
+}
+
+.flex-new div{
+    background-color: #fff;
+    color: black;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+    line-height: 130px; /*Esto es para darle altura a la caja*/
+    font-size: 24px;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    border: 2px dotted rgb(250, 54, 54);
+}
+
+.ilus{
+    position: fixed;
+    top: 5%;
+    right: 10%;
+}
+
+#im{
+    width: 300px;
+    height: 600px;
+}
+
+.link{
+    text-decoration: none;
+}
